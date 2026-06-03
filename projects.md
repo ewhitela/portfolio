@@ -1,5 +1,13 @@
 Current Projects:
 
+SUMMER 2026 @ CMU:
+
+Smart Student Assistant Capstone
+- Perception and conversation assistant deployed across the workstation and
+Jetson Nano.
+
+PERSONAL:
+
 Starlit Isles (Roblox Game)
 - ~2 Million Plays
 - Highly detailed gerstner wave system
